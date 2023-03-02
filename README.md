@@ -4,4 +4,4 @@
 
 github: [https://github.com/chdwyb/AIR-TDM](https://github.com/chdwyb/AIR-TDM)
 
-![扩散过程示意](https://github.com/chdwyb/AIR-TDM/images/扩散过程示意.png)
+![扩散过程示意](https://github.com/chdwyb/AIR-TDM/blob/master/images/扩散过程示意.png)
